@@ -30,8 +30,7 @@ Project Pipeline
       - Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between             (0,1).
       - Choose an appropriate optimiser and loss function for model training
       - Train the model for ~20 epochs
-      - Write your findings after the model fit, see if the earlier issue is resolved or not? 
-   Class distribution:
+      - Write your findings after the model fit, see if the earlier issue is resolved or not? Class distribution:
       - Examine the current class distribution in the training dataset
       - Which class has the least number of samples?
       - Which classes dominate the data in terms of the proportionate number of samples? Handling class imbalances:
